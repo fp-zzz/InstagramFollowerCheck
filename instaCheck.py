@@ -41,7 +41,7 @@ def main():
     if followers_you_dont_follow:
         print("\n--- PEOPLE WHO FOLLOW YOU BUT YOU DON'T FOLLOW BACK ---")
         for username in sorted(followers_you_dont_follow):
-            print(f"  @{username}")
+            print(f"  {username}")
 
 if __name__ == "__main__":
     main()
