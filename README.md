@@ -1,6 +1,6 @@
 # 📸 Instagram Follower Checker
 
-A simple Python tool that compares your Instagram followers and following lists to identify non-mutual connections.
+A simple Python tool that compares your Instagram followers and following lists to identify users who don't follow you back.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
